@@ -1,0 +1,3 @@
+# Netlify: match app link URLs without trailing slash (see appLinks.ts)
+/privacy   /privacy/index.html   200
+/terms     /terms/index.html     200
